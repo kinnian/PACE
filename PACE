@@ -1,7 +1,6 @@
 @online{RP,
-author="Małkowska, Monika, Świątek, Rafał",
+author="Małkowska, Monika and Świątek, Rafał",
 title="W sieci i w realu",
-site="Rzeczpospolita",
 month=mai,
 year="2014",
 url={http://www.rp.pl/artykul/620631.html}
@@ -18,7 +17,6 @@ url={http://pl.wikipedia.org/wiki/Sala_samobójców}
 @online{PISF,
 author="Różdżyńska, Aleksandra",
 title="Komasy filmy o dojrzewaniu",
-site="Polski Instytut Sztuki Filmowej",
 month=jan,
 year="2010",
 url={http://www.pisf.pl/pl/kinematografia/news/komasy-filmy-o-bezkompromisowym-dojrzewaniu}
@@ -27,7 +25,6 @@ url={http://www.pisf.pl/pl/kinematografia/news/komasy-filmy-o-bezkompromisowym-d
 @online{AI,
 author="Lakomski, Marcin",
 title="Être homosexuel(le) en Pologne",
-site="Amnesty International",
 month=feb,
 year="2002",
 url={http://www.amnesty.be/doc/s-informer/notre-magazine-le-fil/libertes-archives/les-anciens-numeros/381-Numero-de-Fevrier-2002/Dossier,81/article/etre-homosexuel-le-en-pologne}
@@ -36,7 +33,6 @@ url={http://www.amnesty.be/doc/s-informer/notre-magazine-le-fil/libertes-archive
 @online{CI,
 author="Ostapkowicz, Iwona",
 title=""Aime et fais ce que tu veux" : un film qui brise les tabous",
-site="Courrier international",
 month=dec,
 year="2013",
 url={http://www.courrierinternational.com/article/2013/12/18/aime-et-fais-ce-que-tu-veux-un-film-qui-brise-les-tabous-0}
@@ -53,7 +49,6 @@ url={http://pl.wikipedia.org/wiki/W_imię...}
 @online{GPL,
 author="Michałek, Mateusz",
 title="Recenzja filmu "W imię..."",
-site="Gildia >> Film",
 month=jan,
 year="2014",
 url={http://www.film.gildia.pl/filmy/w-imie/recenzja}
@@ -62,7 +57,6 @@ url={http://www.film.gildia.pl/filmy/w-imie/recenzja}
 @online{WPL,
 author="Felis, Paweł",
 title=""W imię..." - film o bezczelności pożądania od dziś w kinach",
-site="Wyborcza/Kultura",
 month=sep,
 year="2013",
 url={http://wyborcza.pl/1,75475,14637890,_W_imie_______film_o_bezczelnosci_pozadania_od_dzis.html}
@@ -71,7 +65,6 @@ url={http://wyborcza.pl/1,75475,14637890,_W_imie_______film_o_bezczelnosci_pozad
 @online{CZPR,
 author="Szumowska, Małgorzata",
 title="Małgorzata Szumowska: "W imię..." to nie jest kontrowersyjny film",
-site="Czworka Polskie Radio",
 month=sep,
 year="2013",
 url={http://www.polskieradio.pl/10/2940/Artykul/937647,Malgorzata-Szumowska-W-imie-to-nie-jest-kontrowersyjny-film}
@@ -96,7 +89,6 @@ url={http://fr.wikipedia.org/wiki/Massacre_de_Jedwabne}
 @online{LMDR,
 author="Papin, Alice",
 title="De nombreux Polonais ignoraient qu'ils étaient Juifs",
-site="Le Monde des religions",
 month=feb,
 year="2014",
 url={http://www.lemondedesreligions.fr/savoir/de-nombreux-polonais-ignoraient-qu-ils-etaient-juifs-19-02-2014-3696_110.php}
@@ -113,7 +105,6 @@ url={http://pl.wikipedia.org/wiki/Pokłosie}
 @online{FWP,
 author="Walkiewicz, Michał",
 title="Pokłosie",
-site="FilmWeb",
 month=feb,
 year="2012",
 url={http://www.filmweb.pl/film/Pok%C5%82osie-2012-624892}
@@ -122,7 +113,6 @@ url={http://www.filmweb.pl/film/Pok%C5%82osie-2012-624892}
 @online{NTD,
 author="Redakcja Natemat",
 title="Dlaczego "Pokłosie" Władysława Pasikowskiego wywołało prawdziwą medialną burzę?",
-site="Na:temat",
 month=feb,
 year="2012",
 url={http://natemat.pl/39235,dlaczego-poklosie-wladyslawa-pasikowskiego-wywolalo-prawdziwa-medialna-burze-waszym-zdaniem}
@@ -131,7 +121,6 @@ url={http://natemat.pl/39235,dlaczego-poklosie-wladyslawa-pasikowskiego-wywolalo
 @online{NTL,
 author="Majdan, Krzysztof",
 title="Łatwiej powiedzieć: "Jestem gejem" niż "Jestem Żydem" - to nie zaściankowość tylko historyczny kompleks",
-site="Na:temat",
 month=feb,
 year="2012",
 url={http://natemat.pl/39141,latwiej-powiedziec-jestem-gejem-niz-jestem-zydem-to-nie-zasciankowosc-tylko-historyczny-kompleks}
@@ -140,7 +129,6 @@ url={http://natemat.pl/39141,latwiej-powiedziec-jestem-gejem-niz-jestem-zydem-to
 @online{FWI,
 author="Walkiewicz, Michał",
 title="Ida",
-site="FilmWeb",
 month=sep,
 year="2013",
 url={http://www.filmweb.pl/film/Ida-2013-546529}
@@ -149,7 +137,6 @@ url={http://www.filmweb.pl/film/Ida-2013-546529}
 @online{LI,
 author="Icher, Bruno",
 title="Ida, nonne stop",
-site="Libération",
 month=feb,
 year="2014",
 url={http://next.liberation.fr/cinema/2014/02/11/ida-nonne-stop_979510}
@@ -182,7 +169,6 @@ url={http://fr.wikipedia.org/wiki/Expulsion_des_Allemands_d'Europe_de_l'Est}
 @online{FWR,
 author="Grochowska, Malwina",
 title="Roza",
-site="FilmWeb",
 month=oct,
 year="2011",
 url={http://www.filmweb.pl/film/R%C3%B3%C5%BCa-2011-564694}
@@ -199,7 +185,6 @@ url={http://en.wikipedia.org/wiki/Rose_(2011_film)}
 @online{SK,
 author="AZ",
 title="Sukcesy "Róży" nie ustają - jest Grand Prix we Francji",
-site="Stopklatka",
 month=oct,
 year="2013",
 url={http://stopklatka.pl/wiadomosci/-/75803552,sukcesy-rozy-nie-ustaja-jest-grand-prix-we-francji}
@@ -208,7 +193,6 @@ url={http://stopklatka.pl/wiadomosci/-/75803552,sukcesy-rozy-nie-ustaja-jest-gra
 @online{CPL,
 author="Zarębski, Konrad",
 title="Wojciech Smarzowski - Rose - Interview",
-site="Culture.PL",
 month=dec,
 year="2014",
 url={http://culture.pl/en/article/wojciech-smarzowski-rose-interview}
