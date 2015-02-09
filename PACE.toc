@@ -9,10 +9,10 @@
 \contentsline {subsection}{\tocsubsection {}{}{Roza}}{8}
 \contentsline {paragraph}{\tocparagraph {}{}{}}{8}
 \contentsline {section}{\tocsection {}{3}{Les homosexuels}}{10}
-\contentsline {subsection}{\tocsubsection {}{}{W Imie...}}{10}
+\contentsline {subsection}{\tocsubsection {}{}{W Imie... - Aime et fais ce que tu veux}}{10}
 \contentsline {paragraph}{\tocparagraph {}{}{}}{10}
 \contentsline {section}{\tocsection {}{4}{Les Juifs}}{12}
-\contentsline {subsection}{\tocsubsection {}{}{Poklosie}}{12}
+\contentsline {subsection}{\tocsubsection {}{}{Poklosie - La glanure}}{12}
 \contentsline {paragraph}{\tocparagraph {}{}{}}{12}
 \contentsline {subsection}{\tocsubsection {}{}{Ida}}{13}
 \contentsline {paragraph}{\tocparagraph {}{}{}}{13}
