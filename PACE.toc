@@ -6,7 +6,7 @@
 \contentsline {paragraph}{\tocparagraph {}{}{}}{6}
 \contentsline {section}{\tocsection {}{2}{La Mazurie}}{8}
 \contentsline {paragraph}{\tocparagraph {}{}{}}{8}
-\contentsline {subsection}{\tocsubsection {}{}{Roza}}{8}
+\contentsline {subsection}{\tocsubsection {}{}{Roza - Rose}}{8}
 \contentsline {paragraph}{\tocparagraph {}{}{}}{8}
 \contentsline {section}{\tocsection {}{3}{Les homosexuels}}{10}
 \contentsline {subsection}{\tocsubsection {}{}{W Imie... - Aime et fais ce que tu veux}}{10}
@@ -16,4 +16,6 @@
 \contentsline {paragraph}{\tocparagraph {}{}{}}{12}
 \contentsline {subsection}{\tocsubsection {}{}{Ida}}{13}
 \contentsline {paragraph}{\tocparagraph {}{}{}}{13}
-\contentsline {section}{\tocsection {}{}{R\'ef\'erences}}{15}
+\contentsline {section}{\tocsection {}{}{Le mot de la fin}}{16}
+\contentsline {paragraph}{\tocparagraph {}{}{}}{16}
+\contentsline {section}{\tocsection {}{}{R\'ef\'erences}}{17}
