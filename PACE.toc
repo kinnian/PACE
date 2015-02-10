@@ -11,11 +11,11 @@
 \contentsline {section}{\tocsection {}{3}{Les homosexuels}}{10}
 \contentsline {subsection}{\tocsubsection {}{}{W Imie... - Aime et fais ce que tu veux}}{10}
 \contentsline {paragraph}{\tocparagraph {}{}{}}{10}
-\contentsline {section}{\tocsection {}{4}{Les Juifs}}{12}
-\contentsline {subsection}{\tocsubsection {}{}{Poklosie - La glanure}}{12}
-\contentsline {paragraph}{\tocparagraph {}{}{}}{12}
-\contentsline {subsection}{\tocsubsection {}{}{Ida}}{13}
+\contentsline {section}{\tocsection {}{4}{Les Juifs}}{13}
+\contentsline {subsection}{\tocsubsection {}{}{Poklosie - La glanure}}{13}
 \contentsline {paragraph}{\tocparagraph {}{}{}}{13}
-\contentsline {section}{\tocsection {}{}{Le mot de la fin}}{16}
-\contentsline {paragraph}{\tocparagraph {}{}{}}{16}
-\contentsline {section}{\tocsection {}{}{R\'ef\'erences}}{17}
+\contentsline {subsection}{\tocsubsection {}{}{Ida}}{15}
+\contentsline {paragraph}{\tocparagraph {}{}{}}{15}
+\contentsline {section}{\tocsection {}{}{Le mot de la fin}}{18}
+\contentsline {paragraph}{\tocparagraph {}{}{}}{18}
+\contentsline {section}{\tocsection {}{}{R\'ef\'erences}}{19}
